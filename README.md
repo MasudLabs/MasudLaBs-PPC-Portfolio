@@ -1,43 +1,43 @@
-# MasudLaBs PPC Portfolio
+# MasudLaBs Amazon PPC Portfolio
 
-**Professional Amazon PPC Tools, Scripts & Templates**
+**Amazon PPC Tools, Scripts & Templates for Amazon Advertising Specialists & VAs**
 
-A curated collection of practical tools and resources built for Amazon Advertising Specialists and Virtual Assistants. Focused on automation, data analysis, negative keyword management, bid optimization, and campaign structuring.
+A professional collection of practical **Amazon PPC tools** and automation scripts built for **Amazon Advertising Specialists**, **Amazon PPC VAs**, and e-commerce growth professionals. Focused on **Sponsored Products** optimization, negative keyword management, search term analysis, bid optimization, and campaign automation.
 
 ---
 
-## 🚀 About
+## 🚀 About This Portfolio
 
-**Name:** Abdullah Al Masud  
+**Created by:** Abdullah Al Masud  
 **Location:** Bangladesh  
-**Goal:** Remote Amazon PPC VA / Ads Specialist roles (USA, UK, Canada, Australia, UAE)
+**Purpose:** Showcase real, usable tools for **Amazon PPC** campaign management and optimization
 
-This portfolio demonstrates hands-on ability to build tools that help Amazon sellers and agencies:
-- Save time through automation
-- Reduce wasted ad spend
-- Make smarter, data-driven decisions on keywords and bidding
+This portfolio demonstrates the ability to build tools that help Amazon sellers and agencies:
+- Save time through **PPC automation**
+- Reduce wasted ad spend with better **negative keywords** and search term analysis
+- Make data-driven decisions using **ACoS, ROAS**, and performance metrics
 
 ---
 
-## 📁 Projects & Tools (All Completed)
+## 📁 Amazon PPC Tools & Projects
 
 ### 1. Keyword Research Tool / Negative Keyword Generator
-Automated tool that generates Broad, Phrase, and Exact match keywords from seed terms and suggests smart negative keywords. Exports clean CSV ready for Sponsored Products campaigns.
+Generates Broad, Phrase, and Exact match keywords and suggests smart negative keywords. Exports clean CSV ready for **Sponsored Products** campaigns.
 
 ### 2. Search Term Report Analyzer
-Analyzes Amazon Search Term Reports, identifies high-performing vs wasted spend terms, generates prioritized negative keyword recommendations, and provides actionable insights with performance scoring.
+Analyzes Amazon Search Term Reports to identify high-performing terms vs wasted spend. Generates prioritized **negative keyword** recommendations with performance scoring.
 
 ### 3. ACoS / ROAS Calculator + Optimizer
-Calculates real-time ACoS & ROAS, determines break-even ACoS based on profit margins, and gives clear bid adjustment recommendations. Includes scenario modeling.
+Calculates real-time ACoS & ROAS, determines break-even ACoS, and provides bid adjustment recommendations for better **Amazon PPC** performance.
 
 ### 4. Bid Strategy Simulator
-Simulates and compares different bidding strategies (Dynamic Bids, Fixed Bids, Rule-based) and projects impact on ACoS, ROAS, and sales volume.
+Simulates Dynamic Bids, Fixed Bids, and Rule-based bidding strategies with projected impact on ACoS, ROAS, and sales volume.
 
 ### 5. Campaign Structure Templates
-Ready-to-use campaign structures for Brand Defense, Category Targeting, Competitor Conquesting, Long-tail Harvesting, and Seasonal campaigns — with full documentation and best practices.
+Ready-to-use campaign structures for Brand Defense, Category Targeting, Competitor Conquesting, Long-tail Harvesting, and Seasonal campaigns — with full documentation.
 
 ### 6. Automated Reporting Script
-Generates clean daily/weekly performance reports from Amazon exports, highlights key metrics, trends, and flags campaigns/terms that need attention.
+Generates clean daily/weekly performance reports from Amazon exports with alerts for campaigns that need attention.
 
 ---
 
@@ -64,7 +64,7 @@ MasudLaBs-PPC-Portfolio/
 
 - Python 3.10+
 - pandas, numpy
-- Designed to work with Amazon Advertising exports (Search Term Reports, Campaign reports, etc.)
+- Built to work with Amazon Advertising exports (Search Term Reports, Campaign reports)
 
 ```bash
 pip install -r requirements.txt
@@ -72,24 +72,24 @@ pip install -r requirements.txt
 
 ---
 
-## ✅ Skills Demonstrated
+## ✅ Skills Demonstrated for Amazon PPC Roles
 
-| Skill Area                    | Tools / Evidence                                      |
-|-------------------------------|-------------------------------------------------------|
-| Keyword Strategy & Negatives  | Keyword Research Tool + Negative Keyword Generator    |
-| Search Term Analysis          | Search Term Report Analyzer                           |
-| Metrics & Optimization        | ACoS/ROAS Calculator + Bid Strategy Simulator         |
-| Campaign Architecture         | Campaign Structure Templates                          |
-| Automation & Reporting        | Automated Reporting Script                            |
-| Documentation & Process       | Full READMEs + Methodology docs                       |
+| Skill Area                        | Tools / Evidence                                           |
+|-----------------------------------|------------------------------------------------------------|
+| Keyword Strategy & Negatives      | Keyword Research Tool + Negative Keyword Generator         |
+| Search Term Analysis              | Search Term Report Analyzer                                |
+| Metrics & Bid Optimization        | ACoS/ROAS Calculator + Bid Strategy Simulator              |
+| Campaign Architecture             | Campaign Structure Templates                               |
+| PPC Automation & Reporting        | Automated Reporting Script                                 |
+| Documentation & Process Building  | Full READMEs + Methodology docs                            |
 
 ---
 
-## 📇 Contact
+## 📇 Contact & Opportunities
 
 - **Name:** Abdullah Al Masud
 - **Email:** abdullahalmasd@gmail.com
 - **Location:** Bangladesh (Open to remote work)
-- **Target Roles:** Amazon PPC VA / Ads Specialist (USA, UK, Canada, Australia, UAE)
+- **Target Roles:** Amazon PPC VA, Amazon Advertising Specialist, PPC Optimization Specialist
 
-*Actively building practical tools to improve Amazon advertising performance.*
+*Actively building practical tools to improve Amazon advertising performance and support data-driven PPC campaigns.*
